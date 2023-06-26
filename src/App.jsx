@@ -1,6 +1,5 @@
 import "./App.css";
 import bookmark from "./images/bookmark.svg";
-import imageGallery from "./images/image-gallery.png";
 import image1 from "./images/image1.jpg";
 import image2 from "./images/image2.jpg";
 import image3 from "./images/image3.jpg";
